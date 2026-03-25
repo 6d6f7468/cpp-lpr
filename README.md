@@ -20,4 +20,4 @@ A brief description of the effect goes here.
 | SWITCH 2 | Unused | **UP** - <br/>**MIDDLE** - <br/>**DOWN** -  |
 | SWITCH 3 | Unused | **UP** - <br/>**MIDDLE** - <br/>**DOWN** -  |
 | FOOTSWITCH 1 | REC/OVERDUB |  |
-| FOOTSWITCH 2 | TOGGLE HALF SPEED/REVERSE | The bypassed signal is buffered |
+| FOOTSWITCH 2 | TOGGLE HALF SPEED/REVERSE |  |
