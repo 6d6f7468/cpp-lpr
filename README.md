@@ -15,9 +15,9 @@ A brief description of the effect goes here.
 | KNOB 3 | Unused |  |
 | KNOB 4 | Unused |  |
 | KNOB 5 | Unused |  |
-| KNOB 6 | Unused |  |
+| KNOB 6 | MIX |  |
 | SWITCH 1 | Unused | **UP** - <br/>**MIDDLE** - <br/>**DOWN** -  |
 | SWITCH 2 | Unused | **UP** - <br/>**MIDDLE** - <br/>**DOWN** -  |
 | SWITCH 3 | Unused | **UP** - <br/>**MIDDLE** - <br/>**DOWN** -  |
-| FOOTSWITCH 1 | Unused |  |
-| FOOTSWITCH 2 | Bypass | The bypassed signal is buffered |
+| FOOTSWITCH 1 | REC/OVERDUB |  |
+| FOOTSWITCH 2 | TOGGLE HALF SPEED/REVERSE | The bypassed signal is buffered |
